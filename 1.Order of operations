@@ -1,0 +1,19 @@
+Order of operations
+
+2 +2 - operation
+
++ operator
+2 operands
+
+If 1+1*3 = 4 because the * have high priority
+
+X And / have same level priority
++ and -  also have same level priority
+
+2 * 2 / 3 = 1.3333  it will work left to right because * and / having the same level
+And
+2 + 1- 1 = 2 it will also work left to right because + and - also having the same level
+
+And specially we can use () to specify which part of the operation needs to happens first
+
+Here (1+1)*3 = 6 because () provided the priority for + first so * happen next

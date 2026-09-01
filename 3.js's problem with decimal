@@ -1,0 +1,13 @@
+As we know computer can store 0 and 1 
+but human can 0,1,2,etc
+
+So, computer always store the numbers in 0 and 1
+
+the binary equivalent of 2 is 10
+but the binary equivalent of 0.2 is 0.001100110011…
+
+That is the problem with the computer with floating numbers it cant hold it properly
+
+so the 0.1 + 0.2 = 0.30000000000000004 
+
+so better while calculating we can calulate like (1+2) = 3 to get proper answer is js
